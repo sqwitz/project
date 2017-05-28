@@ -1,0 +1,36 @@
+.default{
+	width: 100vw;
+	height: 100px;
+	background-color:white;
+}
+.one {
+	width: 100vw;
+	height: 100vh;
+    background-image: url("pexels-photo-255527.jpeg");
+    background-size:cover;
+    filter: blur(2px);
+    opacity:0.85;filter:alpha(opacity=50)
+
+
+}
+.two{
+	width: 100vw;
+	height: 100vh;
+    background-color:white;
+    background-size:cover;
+    filter: blur(2px);
+}
+.three{
+	width: 100vw;
+	height: 100vh;
+    background-image: url("pexels-photo (1).jpg");
+    background-size:cover;
+    opacity:0.85;filter:alpha(opacity=50)
+}
+.four{
+	width: 100vw;
+	height: 100vh;
+    background-color:white;
+    background-size:cover;
+    filter: blur(2px);
+}

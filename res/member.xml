@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MEMBER>
+	<NAME>
+		<TITLE>WUTTHIPONG NUANNIM</TITLE>
+		<STUDENTID>59130500092</STUDENTID>
+
+					<IMAGE>
+            		<IMG1>Member/mee.jpg</IMG1>
+        	</IMAGE>
+	</NAME>
+
+	<NAME>
+		<TITLE>SOPHON JAMPASORNKLIN</TITLE>
+		<STUDENTID>59130500117</STUDENTID>
+
+					<IMAGE>
+            		<IMG1>Member/pooh.jpg</IMG1>
+        	</IMAGE>
+	</NAME>
+
+	<NAME>
+		<TITLE>ATHIWAT CHOTIMANEEWATTHIKORN</TITLE>
+		<STUDENTID>59130500112</STUDENTID>
+
+					<IMAGE>
+            		<IMG1>Member/bank.jpg</IMG1>
+        	</IMAGE>
+	</NAME>
+
+	<NAME>
+		<TITLE>CHANANTORN NITHIAMPAI</TITLE>
+		<STUDENTID>59130500117</STUDENTID>
+
+					<IMAGE>
+            		<IMG1>Member/nap.jpg</IMG1>
+        	</IMAGE>
+	</NAME>
+
+	<NAME>
+		<TITLE>NATTHAKIT SRIYOD</TITLE>
+		<STUDENTID>59130500117</STUDENTID>
+
+					<IMAGE>
+            		<IMG1>Member/nut.jpg</IMG1>
+        	</IMAGE>
+	</NAME>
+
+
+
+</MEMBER>
